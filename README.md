@@ -31,7 +31,7 @@ A Chrome extension that automatically converts external images to Base64 format 
 ## 🛠 Installation
 
 ### From Chrome Web Store (Recommended)
-1. Visit the [Chrome Web Store](#) (link pending)
+1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/copy-external-images-as-b/fiophhodhfojiocehnmdmlofpbgfkcaf)
 2. Click "Add to Chrome"
 3. Confirm installation
 
